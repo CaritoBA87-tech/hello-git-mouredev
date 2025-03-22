@@ -5,7 +5,7 @@
 
 ## Curso completo de 5 horas y 45 lecciones para aprender a trabajar con Git & GitHub desde cero y para principiantes
 
-![Alternativo](./Media/header.jpg)
+![](./Media/header.jpg)
 
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 
